@@ -2,9 +2,7 @@
 
 I take things that experts judge by eye and turn them into numbers that hold up.
 
-So far that has meant tumors in mammograms, pain in mice, which trauma patients are about to need a
-chest tube, and which pixel in a satellite image is a rooftop and which is a parking lot. Different
-fields, same job.
+So far that has meant tumors in mammograms, pain in mice, which patients are about to need a life-saving intervention, and which pixel in a satellite image is a rooftop and which is a parking lot. Different fields, same job.
 
 Ph.D. in Electrical Engineering. Now a postdoctoral fellow at the University of Maryland,
 Baltimore, where I build machine learning models on clinical data and then spend most of my time
