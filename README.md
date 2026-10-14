@@ -1,4 +1,4 @@
-# Hi, I'm Chia-Chen
+# Hi there
 
 I take things that experts judge by eye and turn them into numbers that hold up.
 
